@@ -1,0 +1,20 @@
+.checkout-form input {
+    background-color: rgb(241, 241, 238);
+    border: none;
+}
+.checkout-form input:focus {
+    outline: none;
+    background-color: rgb(241, 241, 238);
+}
+.checkout-form textarea {
+    background-color: rgb(241, 241, 238);
+    border: none;
+}
+.checkout-form textarea:focus {
+    outline: none;
+    background-color: rgb(241, 241, 238);
+}
+.save-address {
+    background-color: red !important;
+    color: white;
+}

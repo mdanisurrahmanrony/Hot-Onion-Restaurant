@@ -1,0 +1,31 @@
+.banner-bg {
+    background-image: url("../../bannerbackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+}
+
+.banner-bg .container {
+    height: 100%;
+}
+.banner-bg .row {
+    height: 100%;
+}
+
+.form-banner .form-control {
+    border: none;
+    border-radius: 20px;
+    outline: none !important;
+}
+
+.form-banner .form-control:focus {
+    outline: none !important;
+}
+
+.form-banner .input-group-text {
+    border: none;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+}

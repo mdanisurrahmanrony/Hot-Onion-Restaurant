@@ -1,0 +1,8 @@
+.card-body-icon {
+    color: white;
+    font-size: 25px;
+    background-color: red;
+    border-radius: 50%;
+    width: 50px;
+    padding: 3px;
+}

@@ -1,0 +1,14 @@
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer li {
+    list-style: none;
+}
+.footer-link {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.footer a:hover {
+    color: red;
+}

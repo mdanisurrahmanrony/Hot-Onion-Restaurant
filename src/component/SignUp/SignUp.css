@@ -1,0 +1,30 @@
+.signup-bg {
+    background-image: url("../../signup-bg.png");
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+.signup-bg .container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.signup-bg .row {
+    width: 100%;
+}
+
+.signup-bg input {
+    background-color: rgb(240, 240, 231);
+    border: none;
+}
+.signup-bg input:focus {
+    background-color: rgb(240, 240, 231);
+    outline: none !important;
+}
+.signup-bg .signin-btn {
+    background-color: red;
+    color: white;
+}
+.signup-bg a {
+    text-decoration: none;
+}

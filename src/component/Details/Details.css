@@ -1,0 +1,26 @@
+.detail-btn {
+    border: none;
+    background-color: white;
+    margin: 0 3px;
+    outline: none;
+}
+.detail-btn:focus {
+    outline: none;
+}
+.detail-btn-border {
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.cart-btn {
+    background-color: red;
+    padding: 5px 20px;
+    color: white;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 20px;
+}
+.cart-btn:focus {
+    outline: none;
+}

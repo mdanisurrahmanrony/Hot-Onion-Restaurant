@@ -1,0 +1,38 @@
+.filter-btn {
+    border: transparent;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+    outline: none;
+}
+.filter-btn:hover {
+    color: red;
+    border-bottom: 2px solid red;
+}
+.filter-btn:focus {
+    outline: none;
+}
+.card {
+    border: none;
+}
+.card:hover {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 5px 2px rgb(228, 227, 225);
+}
+
+.menulist-checkout {
+    text-transform: capitalize;
+    border: none;
+    padding: 5px 25px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.title-link {
+    color: black;
+}
+.title-link:hover {
+    text-decoration: none;
+    color: red;
+}
